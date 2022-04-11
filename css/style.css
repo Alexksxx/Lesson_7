@@ -1,0 +1,129 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+.back__one {
+	padding: 30px 0px 30px 0px;
+}
+.block__one {
+	max-width: 260px;
+	padding: 20px 0px;
+	text-align: left;
+	display: block;
+	background-color: #F5F5F5;
+	margin: 0px auto;
+}
+.one__title {
+	font-weight: 700;
+	line-height: 22px;
+	text-transform: uppercase;
+	margin: 0px 0px 28px 20px;
+}
+ul li{
+	line-height: 20px;
+	margin: 0px 0px 16px 0px;
+	padding: 0px 40px 0px 20px;
+}
+#first {
+	background: url('../img/place_24px.png') 231px 2px no-repeat;
+}
+#second {
+	background: url('../img/smartphone_24px.png') 231px 2px no-repeat;
+}
+#third {
+	background: url('../img/email_24px.png') 232px 2px no-repeat;
+}
+#fourth {
+	background: url('../img/timer_24px.png') 233px 2px no-repeat;
+}
+.block__two {
+	color: #FFFFFF;
+	max-width: 100%;
+	background: url('../img/Heroshot.png') 50%/cover no-repeat;
+	padding: 280px 0px 312px 210px;
+	margin: 0px 0px 50px 0px;
+}
+.two__title {
+	font-weight: 900;
+	font-size: 56px;
+	line-height: 56px;
+	max-width: 583px;
+	margin: 0px 0px 48px 0px;
+}
+.two__link {
+	display: inline-block;
+}
+.two__button {
+	text-transform: uppercase;
+	min-width: 211px;
+	min-height: 48px;
+	padding: 0px 0px 0px 20px;
+	color: #FFFFFF;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 48px;
+	background: url('../img/Button48px.png') 100% 0px no-repeat, #C40B0B;
+}
+.block__three {
+	padding: 50px 0px;
+}
+.three__img {
+	margin: 0px 0px -235px 732px;
+}
+.three__main {
+	max-width: 100%;
+	background: url('../img/car_engine_2_24x.png') 950px 316px no-repeat, url('../img/car_alignment_24x.png') 700px 316px no-repeat, url('../img/car_transmission_24x.png') 460px 316px no-repeat, url('../img/car_oil-24x.png') 210px 316px no-repeat, url('../img/overlay.png') 50%/cover no-repeat, #02133C;
+	padding: 112px 0px 213px 210px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #F5F5F5;
+}
+.three__text {
+	padding: 0px 0px 0px 33px;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 24px;
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+	margin: 0px 0px 20px 0px;
+	background: url('../img/OverlineMark.png') 0px -2px no-repeat;
+}
+.three__title {
+	max-width: 415px;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+	color: #FFFFFF;
+	margin: 0px 0px 79px 0px;
+}
+.icon{
+	margin: 0px 0px 0px 90px;
+	display: inline-block;
+	vertical-align: top;
+}
+.three__red {
+	min-width: 150px;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+	color: #C40B0B;
+}
+.three__info {
+	min-width: 150px;
+	max-height: 26px;
+	overflow: visible;
+}
+.three__downblock {
+	background-color: #fff;
+	max-width: 1020px;
+	margin: -75px auto 50px;
+	padding: 43px 70px 48px 70px;
+}
+.three__paragraph {
+	max-width: 562px;
+	font-weight: 900;
+	font-size: 24px;
+	line-height: 30px;
+	color: #02133C;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0px 103px 0px 0px;
+}
